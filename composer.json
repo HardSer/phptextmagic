@@ -1,0 +1,21 @@
+{
+    "name": "itaysonlab/phptextmagic",
+    "description": "Library for creating input processors.",
+    "authors": [
+        {
+            "name": "iTaysonLab",
+            "email": "itaysontesterlab@gmail.com"
+        }
+    ],
+    "type": "project",
+    "require": {
+		"php": ">=5.4"
+    },
+	"autoload": {
+        "psr-4": {
+            "iTaysonLab\\PHPTextMagic\\": "src/",
+            "iTaysonLab\\PHPTextMagic\\Providers\\": "src/providers/",
+            "iTaysonLab\\PHPTextMagic\\Processors\\": "src/processors/"
+        }
+    }
+}
