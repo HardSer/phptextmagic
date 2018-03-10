@@ -1,5 +1,5 @@
 <?php
-namespace iTaysonLab\PHPTextMagic\Providers;
+namespace iTaysonLab\PHPTextMagic\Interfaces;
 
 interface IProvider {
     public function getData($source);

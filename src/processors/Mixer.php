@@ -1,8 +1,9 @@
 <?php
 
 namespace iTaysonLab\PHPTextMagic\Processors;
-use iTaysonLab\PHPTextMagic\Processor;
-use iTaysonLab\PHPTextMagic\Providers\IProvider;
+use iTaysonLab\PHPTextMagic\Core\Processor;
+use iTaysonLab\PHPTextMagic\Interfaces\IProvider;
+use iTaysonLab\PHPTextMagic\Interfaces\IProcessor;
 
 /**
  *  Mixer Processor Base

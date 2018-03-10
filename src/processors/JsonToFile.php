@@ -1,7 +1,7 @@
 <?php
 
 namespace iTaysonLab\PHPTextMagic\Processors;
-use iTaysonLab\PHPTextMagic\Processor;
+use iTaysonLab\PHPTextMagic\Core\Processor;
 
 /**
 *  Full JSON Processor

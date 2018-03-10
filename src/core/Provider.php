@@ -1,7 +1,7 @@
 <?php
 
-namespace iTaysonLab\PHPTextMagic;
-use iTaysonLab\PHPTextMagic\Providers\IProvider;
+namespace iTaysonLab\PHPTextMagic\Core;
+use iTaysonLab\PHPTextMagic\Interfaces\IProvider;
 
 
 /**

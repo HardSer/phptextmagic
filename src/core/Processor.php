@@ -1,7 +1,7 @@
 <?php
 
-namespace iTaysonLab\PHPTextMagic;
-use iTaysonLab\PHPTextMagic\Processors\IProcessor;
+namespace iTaysonLab\PHPTextMagic\Core;
+use iTaysonLab\PHPTextMagic\Interfaces\IProcessor;
 
 /**
  *  Processor Base

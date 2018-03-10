@@ -14,7 +14,9 @@
 	"autoload": {
         "psr-4": {
             "iTaysonLab\\PHPTextMagic\\": "src/",
-            "iTaysonLab\\PHPTextMagic\\Providers\\": "src/providers/",
+           "iTaysonLab\\PHPTextMagic\\Interfaces\\": "src/interfaces/",
+           "iTaysonLab\\PHPTextMagic\\Core\\": "src/core/",
+           "iTaysonLab\\PHPTextMagic\\Providers\\": "src/providers/",
             "iTaysonLab\\PHPTextMagic\\Processors\\": "src/processors/"
         }
     }

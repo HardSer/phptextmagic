@@ -1,5 +1,5 @@
 <?php
-namespace iTaysonLab\PHPTextMagic\Processors;
+namespace iTaysonLab\PHPTextMagic\Interfaces;
 
 interface IProcessor {
     public function doWork($input);

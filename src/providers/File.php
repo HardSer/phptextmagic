@@ -1,6 +1,6 @@
 <?php
 namespace iTaysonLab\PHPTextMagic\Providers;
-use iTaysonLab\PHPTextMagic\Provider;
+use iTaysonLab\PHPTextMagic\Core\Provider;
 
 class File extends Provider
 {
